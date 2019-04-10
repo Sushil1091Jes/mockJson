@@ -1,0 +1,28 @@
+this.gamers = [
+      {
+        id: 1, avatar: '../assets/img/avatar_3.png', name: 'Katy',accountName:'@preety23', rank: 1, points: 277, isLiked:true, isUp:true 
+      },
+      {
+        id: 2, avatar: '../assets/img/avatar_4.png', name: 'Enimen',accountName:'@preety23', rank: 2, points: 270, isLiked:true, isUp:true 
+      },
+      {
+        id: 3, avatar: '../assets/img/avatar_5.png', name: 'Messi',accountName:'@preety23', rank: 3, points: 269, isLiked:true, isUp:false 
+      },
+      {
+        id: 4, avatar: '../assets/img/avatar_2.png', name: 'Giggs',accountName:'@preety23', rank: 4, points: 197, isLiked:false, isUp:false 
+      },
+
+      {
+        id: 5, avatar: '../assets/img/avatar_3.png', name: 'Ronaldo',accountName:'@preety23', rank: 5, points: 190, isLiked:false, isUp:true 
+      },
+      {
+        id: 6, avatar: '../assets/img/avatar_4.png', name: 'Rooney',accountName:'@preety23', rank: 6, points: 180, isLiked:false, isUp:false 
+      },
+      {
+        id: 7, avatar: '../assets/img/avatar_6.png', name: 'Linkin',accountName:'@preety23', rank: 7, points: 177, isLiked:false, isUp:true 
+      },
+      {
+        id: 8, avatar: '../assets/img/avatar_7.png', name: 'Max',accountName:'@preety23', rank: 8, points: 150, isLiked:false, isUp:false 
+      },
+      
+    ]
